@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="youzan-sdk-v2.1.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dLVideo/libs/youzan-sdk-v2.1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AIRPLANE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/initActivity/libs/AIRPLANE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
